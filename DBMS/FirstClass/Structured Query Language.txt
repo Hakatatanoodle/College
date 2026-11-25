@@ -1,0 +1,36 @@
+Structured Query Language
+
+1.DDL (Data Definition language ) 
+It includes commands like create ,alter ,drop 
+2.DML (Data Manipulation Language ) 
+It includes commands like insert ,update ,delete ,select
+3. DCL ( Data Control Language) 
+It includes commands like Grant ,  Revoke
+4. TCL (Transaction Control Language)
+It includes commit , rollback 
+
+
+
+Syntax to use CREATE:
+
+create database db_name //Command to create a database
+create table tbl_name
+(
+Col_name datatype,
+Col_name datatype,
+)
+
+
+SQL server can be connected in two ways – peer to peer and client to server
+
+
+
+
+For lab report 
+-Cover page
+-title 
+-objective
+-theory 
+-QA
+-conclusion  	
+
